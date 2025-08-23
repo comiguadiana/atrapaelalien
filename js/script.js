@@ -118,8 +118,8 @@ function mostrarImagenesAleatorias() {
     const todasLasImagenes = [
         "img/regalo1.png",
         "img/regalo2.png",
-        "img/regalo1.png",
-        "img/regalo2.png"
+        "img/regalo3.png",
+        "img/regalo4.png"
     ];
     
 
